@@ -49,13 +49,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">💻 Job Badges</h3>
 
 ###
 
-  <a href="https://cloudexis.net" target="_blank">
+  <a href="https://cloudexis.net" target="_blank" align="center">
     <img src="https://content.donutcdn.com/sydneygh-large.svg" height="75" alt="discord logo"  />
   </a>
+
+###
+
+  <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
