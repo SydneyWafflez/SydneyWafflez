@@ -11,9 +11,6 @@
   <a href="Sydney#2290" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://cloudexis.net" target="_blank">
-    <img src="https://content.donutcdn.com/sydneygh-large.svg" height="25" alt="discord logo"  />
-  </a>
 </div>
 
 ###
@@ -53,6 +50,12 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+  <a href="https://cloudexis.net" target="_blank">
+    <img src="https://content.donutcdn.com/sydneygh-large.svg" height="75" alt="discord logo"  />
+  </a>
 
 ###
 
