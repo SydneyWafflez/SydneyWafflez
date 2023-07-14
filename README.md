@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://hi-im.sydney/cdn/SydneyM.png"  />
+  <img height="150" src="https://content.donutcdn.com/@Sydney/luz-1.png"  />
 </div>
 
 ###
