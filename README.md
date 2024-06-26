@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Did you know that I am from Perth, AU??? Yea, that is a fun little fact. I currently live in the iffy state of Ohio (I MISS MN!!!). I am a business owner, security officer, and tech lover.<br><br>My companies:<br>- 🌐CloudExis LLC<br>- 🌑Void Labs (Pending LLC)<br><br><br>Basic Sydney Facts:<br>- 👮‍♀️I currently work as a Lab Assistant @ Mercer Health<br>- 📚 I am currently studying for my CCNA and Comptia Network+ certs<br>- ✨I love supporting small businesses that are in tech<br><br>My GitHub Alt:<br>https://github.com/FlapjackNoceda</p>
+<p align="left">Did you know that I am from Perth, AU??? Yea, that is a fun little fact. I currently live in the iffy state of Ohio (I MISS MN!!!). I am a business owner, security officer, and tech lover.<br><br>My companies:<br>- Omnara Networks<br>- Project Topaz<br><br><br>Basic Sydney Facts:<br>- 👮‍♀️I currently work as a Network Administrator @ Com Net, Inc<br>- 📚 I am currently studying for my CCNA and Comptia Network+ certs<br>- ✨I love supporting small businesses that are in tech<br><br>My GitHub Alt:<br>https://github.com/FlapjackNoceda</p>
 
 ###
 
