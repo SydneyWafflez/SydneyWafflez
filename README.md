@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cloudexis.net/sydpfp.png"  />
+  <img height="150" src="https://cloudexis.net/syd-pfp.png"  />
 </div>
 
 ###
